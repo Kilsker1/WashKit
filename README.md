@@ -46,7 +46,7 @@ please contact us at:
 </p>
 
 <p>
-<a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a>
+<a href="mailto:YOUR_EMAIL_HERE">codyevander@gmail.com</a>
 </p>
 
 <h2>About Wash Kit</h2>
